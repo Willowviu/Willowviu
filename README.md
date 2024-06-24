@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software testing products (manual & automation)
 - 📫 How to reach me, my linkedin profile is shared on my github profile
 - 😄 Pronouns: willow
-- ⚡ Fun fact: Did you know that Did you know that squirrels forget where they have hidden all the nuts they bury? XD
+- ⚡ Fun fact: Did you know that squirrels forget where they have hidden all the nuts they bury? XD
 
 <!---
 Willowviu/Willowviu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
