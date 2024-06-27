@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Willowviu
+# 👋 Hi, I’m @Willowviu
 - 👀 I’m interested in Software testing
 - 🌱 I’m currently learning how to use Git & Github
 - 💞️ I’m looking to collaborate on software testing products (manual & automation)
