@@ -1,13 +1,10 @@
 
-Willowviu/Willowviu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Software Tester</title>
+    <title>Francisco de Miguel profile</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -43,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <body>
 
 <header>
-    <h1>Perfil Profesional de Software Tester</h1>
+    <h1>Francisco de Miguel</h1>
 </header>
 
 <div class="container">
@@ -56,24 +53,7 @@ You can click the Preview link to take a look at your changes.
 
     <section>
         <h2 class="section-title">Experiencia Laboral</h2>
-        <ul>
-            <li>
-                <strong>Software Tester</strong> en <em>Empresa XYZ</em> (Enero 2020 - Presente)
-                <ul>
-                    <li>Realización de pruebas funcionales y no funcionales.</li>
-                    <li>Desarrollo y ejecución de casos de prueba.</li>
-                    <li>Identificación y reporte de bugs y errores.</li>
-                </ul>
-            </li>
-            <li>
-                <strong>Asistente de QA</strong> en <em>Empresa ABC</em> (Junio 2018 - Diciembre 2019)
-                <ul>
-                    <li>Colaboración en la creación de planes de prueba.</li>
-                    <li>Pruebas manuales y automatizadas de aplicaciones web y móviles.</li>
-                    <li>Documentación de resultados de pruebas y creación de informes de calidad.</li>
-                </ul>
-            </li>
-        </ul>
+        
     </section>
 
     <section>
@@ -92,7 +72,7 @@ You can click the Preview link to take a look at your changes.
         <h2 class="section-title">Educación</h2>
         <ul>
             <li>
-                <strong>Licenciatura en Ingeniería de Software</strong> - Universidad Tecnológica (2014 - 2018)
+                <strong>Certified Tester by the ASTQB - ISTQB in the US</strong> - May 2024)
             </li>
         </ul>
     </section>
